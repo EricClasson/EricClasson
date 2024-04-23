@@ -1,6 +1,6 @@
 👋 Hi, I’m @EricClasson
   
-👀 I’m interested in Programming, Crossfit, Running
+👀 I’m interested in Programming, Crossfit & Running
 
 🔭 I’m currently working on Store with an api
   
