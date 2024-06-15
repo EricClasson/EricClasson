@@ -2,7 +2,7 @@
   
 👀 I’m interested in Programming, Crossfit & Running
 
-🔭 I’m currently working on Store with firebase
+🔭 I’m currently working on a summer project, a workout app built with javascript, mongodb and react 
   
 🌱 I’m currently learning React, Typescript, tailwind, firebase
 
