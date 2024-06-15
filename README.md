@@ -2,9 +2,9 @@
   
 👀 I’m interested in Programming, Crossfit & Running
 
-🔭 I’m currently working on a summer project, a workout app built with javascript, mongodb and react 
+🔭 I’m currently working on a summer project, a workout app built with javascript, mongodb and react and some c#. 
   
-🌱 I’m currently learning React, Typescript, tailwind, firebase
+🌱 I’m currently learning C#.
 
 👨‍💻 All of my projects are available at my portfolio [https://rdevportfolio.netlify.app/](https://www.ericclasson.com/)
 
