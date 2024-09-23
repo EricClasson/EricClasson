@@ -1,8 +1,6 @@
 👋 Hi, I’m @EricClasson
   
 👀 I’m interested in Programming, Crossfit & Running
-
-🔭 I’m currently working on a summer project, a Resturant app built with Typescript, mongodb and react. 
   
 🌱 I’m currently learning JAVA.
 
